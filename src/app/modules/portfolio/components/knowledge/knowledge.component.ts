@@ -31,6 +31,10 @@ export class KnowledgeComponent {
       alt: 'Icone Golang',
     },
     {
+      src: 'assets/images/icons/python.svg',
+      alt: 'Icone Python',
+    },
+    {
       src: 'assets/images/icons/react.svg',
       alt: 'Icone React',
     },
